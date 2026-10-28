@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Wheel hub bearing assembly">
+  <g fill="none" stroke="#2c3646" stroke-width="3">
+    <circle cx="120" cy="90" r="64" fill="#c9d1dd"/>
+    <circle cx="120" cy="90" r="42" fill="#aeb8c7"/>
+    <circle cx="120" cy="90" r="20" fill="#eef1f6"/>
+    <g stroke-width="2.5" fill="#8d98a8">
+      <rect x="114" y="14" width="12" height="26" rx="4"/>
+      <rect x="114" y="140" width="12" height="26" rx="4"/>
+      <rect x="44" y="84" width="26" height="12" rx="4"/>
+      <rect x="170" y="84" width="26" height="12" rx="4"/>
+      <rect x="62" y="30" width="12" height="26" rx="4" transform="rotate(-45 68 43)"/>
+      <rect x="166" y="30" width="12" height="26" rx="4" transform="rotate(45 172 43)"/>
+    </g>
+    <circle cx="120" cy="90" r="31" stroke="#d92d20" stroke-width="4" stroke-dasharray="6 8"/>
+  </g>
+</svg>

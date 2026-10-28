@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Headlight assembly">
+  <g fill="none" stroke="#2c3646" stroke-width="3" stroke-linejoin="round">
+    <path d="M30 60c50-22 118-26 172-8l10 62c-58 16-124 12-176-8z" fill="#c9d1dd"/>
+    <path d="M52 74c42-14 96-16 140-4l6 34c-48 10-104 8-144-6z" fill="#eef1f6"/>
+    <circle cx="96" cy="94" r="20" fill="#aeb8c7"/>
+    <circle cx="96" cy="94" r="8" fill="#f5a524" stroke="#b9791a"/>
+    <circle cx="160" cy="96" r="14" fill="#aeb8c7"/>
+    <path d="M186 118h26" stroke="#d92d20" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

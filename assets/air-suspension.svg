@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Air suspension spring bag">
+  <g fill="none" stroke="#2c3646" stroke-width="3">
+    <rect x="86" y="16" width="68" height="14" rx="6" fill="#aeb8c7"/>
+    <path d="M96 30h48v18c22 6 30 18 30 30s-8 24-30 30v18H96v-18c-22-6-30-18-30-30s8-24 30-30z" fill="#1c2431" stroke="#0e1420"/>
+    <path d="M70 78c28 12 72 12 100 0M70 96c28 12 72 12 100 0" stroke="#5b6675" stroke-width="2.5"/>
+    <rect x="86" y="126" width="68" height="14" rx="6" fill="#aeb8c7"/>
+    <path d="M154 40h30a10 10 0 0 1 10 10v10" stroke="#d92d20" stroke-width="4"/>
+    <circle cx="194" cy="66" r="7" fill="#d92d20" stroke="#a81d13"/>
+  </g>
+</svg>

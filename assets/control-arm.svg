@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Control arm assembly">
+  <g fill="none" stroke="#2c3646" stroke-width="3" stroke-linejoin="round">
+    <path d="M36 52l128 24 32 46-40 16-120-44z" fill="#c9d1dd"/>
+    <circle cx="44" cy="58" r="14" fill="#aeb8c7"/>
+    <circle cx="44" cy="58" r="6" fill="#eef1f6"/>
+    <circle cx="40" cy="106" r="14" fill="#aeb8c7"/>
+    <circle cx="40" cy="106" r="6" fill="#eef1f6"/>
+    <path d="M176 100l18 22-26 16-14-20z" fill="#d92d20" stroke="#a81d13"/>
+    <circle cx="176" cy="122" r="7" fill="#eef1f6" stroke="#a81d13"/>
+  </g>
+</svg>

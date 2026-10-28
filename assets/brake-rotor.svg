@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Brake rotor and pad">
+  <g fill="none" stroke="#2c3646" stroke-width="3">
+    <circle cx="105" cy="90" r="62" fill="#c9d1dd"/>
+    <circle cx="105" cy="90" r="46" stroke-dasharray="5 7" stroke-width="2"/>
+    <circle cx="105" cy="90" r="30" fill="#aeb8c7"/>
+    <circle cx="105" cy="90" r="11" fill="#eef1f6"/>
+    <g stroke-width="2.5">
+      <circle cx="105" cy="68" r="4.5" fill="#eef1f6"/>
+      <circle cx="126" cy="83" r="4.5" fill="#eef1f6"/>
+      <circle cx="118" cy="108" r="4.5" fill="#eef1f6"/>
+      <circle cx="92" cy="108" r="4.5" fill="#eef1f6"/>
+      <circle cx="84" cy="83" r="4.5" fill="#eef1f6"/>
+    </g>
+    <path d="M170 44h44a8 8 0 0 1 8 8v76a8 8 0 0 1-8 8h-44z" fill="#d92d20" stroke="#a81d13"/>
+    <path d="M170 44v96" stroke="#a81d13" stroke-width="8"/>
+  </g>
+</svg>

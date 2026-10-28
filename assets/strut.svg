@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Shock absorber strut assembly">
+  <g fill="none" stroke="#2c3646" stroke-width="3">
+    <ellipse cx="120" cy="24" rx="40" ry="12" fill="#aeb8c7"/>
+    <path d="M100 24v14M140 24v14"/>
+    <rect x="104" y="36" width="32" height="112" rx="10" fill="#c9d1dd"/>
+    <rect x="112" y="60" width="16" height="70" rx="6" fill="#d92d20" stroke="#a81d13"/>
+    <g stroke="#7d8899" stroke-width="7" stroke-linecap="round">
+      <path d="M84 48h72M84 68h72M84 88h72M84 108h72M84 128h72"/>
+    </g>
+    <ellipse cx="120" cy="156" rx="34" ry="11" fill="#aeb8c7"/>
+  </g>
+</svg>
